@@ -1,2 +1,2 @@
-# Desafio-de-Projeto-HTML
-Primeiro desafio de projeto do curso de HTML
+# Desafio de Projeto HTML
+Olá, esse é o meu primeiro desafio de projeto do curso de HTML!
